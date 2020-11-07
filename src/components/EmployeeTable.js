@@ -29,6 +29,7 @@ class EmployeeTable extends Component {
         this.setState({ employees: sortedEmployees, isSorted: true })
     }
 
+    // Handle Input change
     handleInputChange = event => {
         const name = event.target.name;
         const value = event.target.value;
