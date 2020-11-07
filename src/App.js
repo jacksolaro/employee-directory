@@ -1,6 +1,5 @@
 import './App.css';
 import EmployeeTable from './components/EmployeeTable';
-import SearchForm from './components/Search';
 
 function App() {
   return (

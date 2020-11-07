@@ -55,7 +55,7 @@ class EmployeeTable extends Component {
                             <th scope="col">ID Photo</th>
                             <th scope="col">First</th>
                             <th scope="col">Last</th>
-                            <th scope="col"><button className="btn btn-link text-black" onClick={() => this.sortEmployees()}>Email</button></th>
+                            <th scope="col"><button className="btn btn-link " onClick={() => this.sortEmployees()}>Email</button></th>
                             <th scope="col">Phone</th>
                             <th scope="col">Cell</th>
                         </tr>
