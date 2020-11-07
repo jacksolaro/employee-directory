@@ -2,8 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![](/public/demo.gif)
+
 - Github Repo: https://github.com/jacksolaro/employee-directory
-- Deployed App: TBD
+- Deployed App: https://jacksolaro.github.io/employee-directory/
 
 ## DESCRIPTION
 ---------------------
